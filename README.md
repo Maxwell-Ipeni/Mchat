@@ -1,6 +1,6 @@
-# wacrm — CRM Template for WhatsApp
+# Mchat — Mchat for Business
 
-> Self-hostable CRM template for WhatsApp® — shared inbox, contacts,
+> Mchat for Business — self-hostable WhatsApp CRM for businesses. Fork it, brand it, host it.
 > sales pipelines, broadcasts, and no-code automations. Fork it, brand
 > it, host it.
 
